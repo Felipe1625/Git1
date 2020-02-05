@@ -30,16 +30,19 @@
     margin-top: 50px;
     margin-left: 500px;
     margin-right: 500px;
+    margin-bottom: 50px;
   }
   
   td{
       border: 1px solid black;
-      padding: 50px;
+      padding: 20px;
   }
   
   .td-plomo{
       background-color: rgb(235, 234, 234);
   }
+
+
   
   
   
