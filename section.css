@@ -7,11 +7,11 @@
   height: 150px;
 }
 .border-prot1-verde {
-  background-color: rgb(55, 158, 124);
+  background-color: rgb(104, 206, 172);
   
 }
 .border-prot1-azul {
-  background-color: rgb(65, 145, 192);
+  background-color: rgb(121, 184, 221);
   
 }
 
@@ -27,14 +27,14 @@ p {
 }
 
 .caja {
-  margin-top: 100px;
+  margin-top: 50px;
   margin-left: 500px;
   margin-right: 500px;
 }
 
 td{
     border: 1px solid black;
-    
+    padding: 50px;
 }
 
 .td-plomo{
